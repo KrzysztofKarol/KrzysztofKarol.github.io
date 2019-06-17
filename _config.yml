@@ -1,2 +1,9 @@
-markdown:   kramdown
-style:  kjhealy
+markdown: kramdown
+style: kjhealy
+
+plugins:
+  - jekyll-readme-index
+
+# jekyll-readme-index
+readme_index:
+  remove_originals: true
