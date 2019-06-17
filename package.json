@@ -1,0 +1,22 @@
+{
+  "name": "lintyourlife.github.io",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LintYourLife/LintYourLife.github.io.git"
+  },
+  "author": "Krzysztof Karol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LintYourLife/LintYourLife.github.io/issues"
+  },
+  "homepage": "https://github.com/LintYourLife/LintYourLife.github.io#readme",
+  "devDependencies": {
+    "html-pdf": "^2.2.0"
+  }
+}
