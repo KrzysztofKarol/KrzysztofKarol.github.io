@@ -1,5 +1,5 @@
 markdown: kramdown
-style: davewhipp
+style: kjhealy
 
 plugins:
   - jekyll-readme-index
