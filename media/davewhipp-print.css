@@ -81,6 +81,7 @@ p code {
 	position: absolute;
 	text-align: right;
 	right: -20%;
+	max-width: 20%;
 }
 
 
@@ -136,9 +137,9 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 2em;
+	margin-top: -1.2em;
 	position: relative;
-	top: 1.2em;
+	top: 2.3em;
 	text-align: right;
 	width: 20%;
 }
@@ -170,6 +171,7 @@ a:hover {
 	color: #ccc;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
+	width: 50%;
 }
 
 #webaddress a {
@@ -190,5 +192,9 @@ strong {
 	visibility: hidden;
 }
 
-
-
+.profile-picture {
+	position: absolute;
+	height: 120px;
+	left: 100%;
+	top: -80px;
+}

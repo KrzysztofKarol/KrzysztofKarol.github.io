@@ -5,11 +5,13 @@ title: Krzysztof Karol's CV
 # Krzysztof Karol
 Front-end Developer (TypeScript, Angular)
 
+![Profile picture](./krzysztof-karol.png){:.profile-picture}
+
 <div id="webaddress">
 <a href="mailto:{{site.email_address}}">{{site.email_address}}</a>
 | <a href="tel:{{site.phone_number}}">{{site.phone_number}}</a>
 | <a href="https://github.com/LintYourLife">GitHub</a>
-| <a href="https://www.linkedin.com/in/LintYourLife/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/KrzysztofKarol/">LinkedIn</a>
 </div>
 
 
@@ -22,7 +24,8 @@ Setting up CI/CD pipelines, preparing Dockerfiles
 
 ## Professional Experience
 `Jan 2016 - now`
-__Software Engineer, S3 Connected Health: Digital Patient Engagement Strategies__
+__Software Engineer, S3 Connected Health,  
+Digital Patient Engagement Strategies__
 
 Projects: 1) Multi-language application that connects patients, doctors and nurses
 
@@ -48,13 +51,13 @@ Preparing cross-email-clients newsletters. Creating high converting Landing Page
 
 
 `Sep 2014 – Nov 2014`
-__Junior Financial Specialist (intern), IBM Global Services Delivery Centre__
+__Junior Financial Specialist (intern), IBM GSDC__
 
 Writing VBA macros to speed up reporting.
 
 
 `Sep 2014 – Nov 2014`
-__E-Commerce Specialist (intern), Divante, eCommerce Software House__
+__E-Commerce Specialist (intern), Divante__
 
 Creating banners for Google Display and Facebook Adverts using GIMP and Adobe Photoshop CC. Creating Landing Pages employing HTML, CSS3, JavaScript + jQuery and PHP. Optimizing Landing Pages for better conversion and leads quality (A/B testing). Creating Google AdWords adverts for more than 9000 books and over 300 lingerie items using Bash. Cutting and coding newsletters.
 
