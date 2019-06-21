@@ -61,6 +61,38 @@ __E-Commerce Specialist (intern), Divante__
 
 Creating banners for Google Display and Facebook Adverts using GIMP and Adobe Photoshop CC. Creating Landing Pages employing HTML, CSS3, JavaScript + jQuery and PHP. Optimizing Landing Pages for better conversion and leads quality (A/B testing). Creating Google AdWords adverts for more than 9000 books and over 300 lingerie items using Bash. Cutting and coding newsletters.
 
+## Education
+
+`2012 - 2015`
+__University of Economics in Wroclaw__
+
+Bachelor’s Degree, Economic Analytics
+
+
+`2010 - 2012`
+__Wroclaw University of Science and Technology__
+
+Control Engineering and Robotics
+
+
+## Skills
+<!-- ### Sort:
+``.split(", ").sort((w1, w2) => w1.toLowerCase() > w2.toLowerCase() ? 1 : -1).join(", ")
+-->
+
+__Skills__
+
+Angular, AngularJS, Cypress, CSS3, Design Patterns, Docker, ES6, GIT, HTML5, Kubernetes, Material UI, Mocha NgRx, Node.js, React, Redux, RxJS, SASS, TypeScript.
+
+Obvious, "SEO-friendly": Code Review, JavaScript, Linter, npm.
+
+__Interested in__
+
+Meetups: Agile, Blockchain, Cloud native, DevOps, Java, JS, Python, Serverless, TS
+
+Hackatons / Workshops: Flutter, React, React Native
+
+
 <!-- ### Footer
 
 Thanks to Eliseo Papa for template: https://github.com/elipapa/markdown-cv -->
