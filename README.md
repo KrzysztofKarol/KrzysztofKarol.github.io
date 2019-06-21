@@ -5,7 +5,7 @@ title: Krzysztof Karol's CV
 # Krzysztof Karol
 Front-end Developer (TypeScript, Angular)
 
-![Profile picture](./krzysztof-karol.png){:.profile-picture}
+![Profile picture](./krzysztof-karol.png)
 
 <div id="webaddress">
 <a href="mailto:{{site.email_address}}">{{site.email_address}}</a>
