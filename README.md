@@ -93,6 +93,21 @@ Meetups: Agile, Blockchain, Cloud native, DevOps, Java, JS, Python, Serverless, 
 Hackatons / Workshops: Flutter, React, React Native
 
 
+## Languages
+<!-- ### Based on: https://en.wikipedia.org/wiki/ILR_scale#ILR_scale -->
+
+__English__
+
+Professional working proficiency
+
+__German__
+
+Limited working proficiency
+
+__Polish__
+
+Native or bilingual proficiency
+
 <!-- ### Footer
 
 Thanks to Eliseo Papa for template: https://github.com/elipapa/markdown-cv -->
