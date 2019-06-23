@@ -108,6 +108,14 @@ __Polish__
 
 Native or bilingual proficiency
 
+
+## Other
+
+__Coding challenge websites__
+
+[Codewars](https://www.codewars.com/users/KrzysztofKarol) - Top 0.41%
+
+
 <!-- ### Footer
 
 Thanks to Eliseo Papa for template: https://github.com/elipapa/markdown-cv -->
