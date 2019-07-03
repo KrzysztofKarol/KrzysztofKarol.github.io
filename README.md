@@ -27,15 +27,14 @@ Setting up CI/CD pipelines, preparing Dockerfiles
 __Software Engineer, S3 Connected Health,  
 Digital Patient Engagement Strategies__
 
-Projects: 1) Multi-language application that connects patients, doctors and nurses
+Projects: 1) Multi-language application that connects patients, doctors and nurses  
+"Componentizing" AngularJS 1.4 directives to 1.5's component directives using Bash scripts and regular expressions. Generating AngularJS API Services from Swagger files using Swagger Codegen. Integrating Twilio to support Triage's phone calls. Managing translation keys used in application. Generating unit test reports in Excel using Bamboo API.
 
-"Componentizing" AngularJS 1.4 directives to 1.5's component directives using Bash scripts and regular expressions. Generating AngularJS API Services from Swagger files using Swagger Codegen. Integrating Twilio to support Triage's phone calls. Managing translation keys used in application. Generating unit test reports in Excel using Bamboo API
+2\) Data Builder to supply application with medical scenarios  
+Developing React application that allows to visually create medical care plans. Creating Bamboo's continuous integration pipeline with testing UI with Cypress. Creating docker image building scripts.
 
-2\) Data Builder to supply application with medical scenarios
-Developing React application that allows to visually create medical care plans. Creating Bamboo's continuous integration pipeline with testing UI with Cypress. Setting up building docker images.
-
-3\) Chatbot and platform for rare genetic disease specialists 
-Building reactive Angular 6 application using TypeScript. Migrating to v7 and v8. Modularazing and lazy loading parts. Registering SOUPs (Software of unknown pedigree) with Jira API. Configuring plans on Jenkins. Helping maintaining Helm Charts.
+3\) Chatbot and platform for rare genetic disease specialists  
+Developing reactive Angular 6 application using TypeScript. Migrating to v7 and v8. Modularizing and lazy loading parts. Registering SOUPs (Software of unknown pedigree) with Jira API. Configuring plans on Jenkins. Helping maintaining Helm Charts.
 
 
 `Jun 2015 - Jul 2015`
@@ -47,7 +46,7 @@ Finding relevant data and creating reports.
 `Sep 2013 - May 2015`
 __Front-end Developer, Divante, eCommerce Software House__
 
-Preparing cross-email-clients newsletters. Creating high converting Landing Pages. Setting up marketing automation. Integrating Abandoned Cart
+Preparing cross-email-clients newsletters. Creating high converting Landing Pages. Setting up marketing automation. Integrating Abandoned Cart.
 
 
 `Sep 2014 – Nov 2014`
