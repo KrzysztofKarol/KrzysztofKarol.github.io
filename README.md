@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Krzysztof Karol's CV
+title: CV - Krzysztof Karol
 ---
 # Krzysztof Karol
 Front-end Developer (TypeScript, Angular)
@@ -17,7 +17,7 @@ Front-end Developer (TypeScript, Angular)
 
 ### Experienced in
 
-Designing and developing large software applications as Medical Devices in both Waterfall and Agile methodologies (Scrum implementation)
+Designing and developing large software applications as Medical Devices (SaMD) in both Waterfall and Agile methodologies (Scrum implementation)
 
 Setting up CI/CD pipelines, preparing Dockerfiles
 
@@ -29,7 +29,7 @@ Digital Patient Engagement Strategies__
 
 Projects: 1) Multi-language application that connects patients, doctors and nurses
 
-"Componentizing" AngularJS 1.4 directives to 1.5's component directives using Bash scripts and regular expressions. Generating AngularJS API Services from Swagger files using Swagger Codegen. Integrating Twilio to support Triage's phone calls. Managing translation items used in application. Generating Excel unit test reports using Bamboo API
+"Componentizing" AngularJS 1.4 directives to 1.5's component directives using Bash scripts and regular expressions. Generating AngularJS API Services from Swagger files using Swagger Codegen. Integrating Twilio to support Triage's phone calls. Managing translation keys used in application. Generating unit test reports in Excel using Bamboo API
 
 2\) Data Builder to supply application with medical scenarios
 Developing React application that allows to visually create medical care plans. Creating Bamboo's continuous integration pipeline with testing UI with Cypress. Setting up building docker images.
