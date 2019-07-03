@@ -13,3 +13,10 @@ Frontend Entwickler (TypeScript, Angular)
 | <a href="https://github.com/KrzysztofKarol">GitHub</a>
 | <a href="https://www.linkedin.com/in/KrzysztofKarol/">LinkedIn</a>
 </div>
+
+
+### Erfahren in
+
+Entwerfen und Entwicklung grosser Software-Anwendungen als Medizinprodukte in Waterfall- und Agile-Methoden (Scrum-Implementierung)
+
+Aufbau und Konfiguration von CI/CD-Pipelines, Erstellung von Dockerfiles
