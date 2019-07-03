@@ -1,6 +1,6 @@
 .sass-cache/
 _site/
+target/
 node_modules/
 vendor/bundle/
 _config_spi.yml
-CV-Krzysztof-Karol.pdf
