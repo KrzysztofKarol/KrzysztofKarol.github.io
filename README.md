@@ -46,7 +46,7 @@ Finding relevant data and creating reports.
 `Sep 2013 - May 2015`
 __Front-end Developer, Divante, eCommerce Software House__
 
-Preparing cross-email-clients newsletters. Creating high converting Landing Pages. Setting up marketing automation. Integrating Abandoned Cart.
+Creating cross-email-clients newsletters and high-converting Landing Pages. Setting up marketing automation. Integrating Abandoned Cart.
 
 
 `Sep 2014 – Nov 2014`
@@ -55,10 +55,11 @@ __Junior Financial Specialist (intern), IBM GSDC__
 Writing VBA macros to speed up reporting.
 
 
-`Sep 2014 – Nov 2014`
+`Aug 2013 – Aug 2013`
 __E-Commerce Specialist (intern), Divante__
 
 Creating banners for Google Display and Facebook Adverts using GIMP and Adobe Photoshop CC. Creating Landing Pages employing HTML, CSS3, JavaScript + jQuery and PHP. Optimizing Landing Pages for better conversion and leads quality (A/B testing). Creating Google AdWords adverts for more than 9000 books and over 300 lingerie items using Bash. Cutting and coding newsletters.
+
 
 ## Education
 
@@ -69,7 +70,7 @@ Bachelor’s Degree, Economic Analytics
 
 
 `2010 - 2012`
-__Wroclaw University of Science and Technology__
+__Wrocław University of Science and Technology__
 
 Control Engineering and Robotics
 
@@ -89,7 +90,7 @@ __Interested in__
 
 Meetups: Agile, Blockchain, Cloud native, DevOps, Java, JS, Python, Serverless, TS
 
-Hackatons / Workshops: Flutter, React, React Native
+Hackathons / Workshops: Flutter, React, React Native
 
 
 ## Languages
@@ -102,6 +103,10 @@ Professional working proficiency
 __German__
 
 Limited working proficiency
+
+__Schwiizertüütsch__
+
+Es paari Worte
 
 __Polish__
 
