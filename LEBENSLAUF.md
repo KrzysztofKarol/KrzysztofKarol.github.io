@@ -53,8 +53,8 @@ Erstellung von Cross-E-Mail-Client Newsletter und hochkonvertierten Landingpages
 __Junior Finanzspezialist (Praktikant), IBM GSDC__
 
 Programmieren von VBA-Makros zur Beschleunigung der Berichterstellung.
-
 <p style="page-break-after: always"></p>
+
 `Aug. 2013 – Aug. 2013`
 __E-Commerce-Spezialist (Praktikant), Divante__
 
